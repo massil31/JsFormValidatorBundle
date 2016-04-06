@@ -51,10 +51,10 @@
     },
 
     "autoload": {
-        "psr-0": { "Fp\\JsFormValidatorBundle": "" }
+        "psr-0": { "Massil\\JsFormValidatorBundle": "" }
     },
 
-    "target-dir": "Fp/JsFormValidatorBundle",
+    "target-dir": "Massil/JsFormValidatorBundle",
 
     "extra": {
         "branch-alias": {
